@@ -15,3 +15,9 @@ We selected two similar sub-Reddits to increase the difficulty level. We believe
 
 ## Data / Materials
 Data extracted from Reddit API is stored as "csv" file inside "data" folder.
+
+## Conclusion & Recommendations / What's Next?
+•	Get more data - more training for model - better accuracy.
+•	Play around with model parameters (stop-words - adding new ones, try more ngram,..).
+•	Excluding common words.
+•	Analyze miss-classified post.
